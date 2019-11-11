@@ -1,0 +1,11 @@
+helloWorld
+git commit
+git push
+git status 
+git pull
+git add
+Thuonghuyen123
+Ctrl C :stop
+
+git branch tennhanh
+git chackout tennhanh
