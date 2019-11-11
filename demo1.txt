@@ -8,4 +8,4 @@ Thuonghuyen123
 Ctrl C :stop
 
 git branch tennhanh
-git chackout tennhanh
+git checkout tennhanh
