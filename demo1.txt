@@ -9,3 +9,4 @@ Ctrl C :stop
 
 git branch tennhanh
 git checkout tennhanh
+git merge tennhanh gop
